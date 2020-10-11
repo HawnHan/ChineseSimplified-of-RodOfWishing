@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	
+	<RoWish.Summon>召唤</RoWish.Summon>
+	<RoWish.HighValue>超出价值范围</RoWish.HighValue>
+	
+	<RoWish.LetsWish>心想事成！</RoWish.LetsWish>
+	
+	<RoWish.DontWish>Ummm...你未选中任何事物。</RoWish.DontWish>
+	<RoWish.SoldOut>啊哈，不好意思，成愿杖无法创造此物。</RoWish.SoldOut>
+	
+	<RoWish.WishEnd>{0} 已到殖民地。</RoWish.WishEnd>
+	
+	<RoWish.Settings>成愿杖</RoWish.Settings>
+	<RoWish.Max_Value>一次许愿的事物价值上限</RoWish.Max_Value>
+	<RoWish.Max_Value_Desc>你不能许愿高出设定价值上限的事物。</RoWish.Max_Value_Desc>
+	<RoWish.Reset>重置</RoWish.Reset>
+
+</LanguageData>

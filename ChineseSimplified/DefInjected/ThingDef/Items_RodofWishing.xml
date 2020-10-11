@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rod_of_Wishing.label>成愿杖</Rod_of_Wishing.label>
+  <Rod_of_Wishing.description>”谨 慎 许 愿“\n\n其运作原理未知，但只要你手持此杖挥舞时心想所求之物，就能让愿望成真，而且还是从外太空直接落到你的殖民地内。此物被誉为无价之宝的原因在于它不仅能变出死物，就连活物也能凭空而现，你无法想象此杖的价值，因为不管是生存于世的生活物资，还是救命治病的传世神药，又抑或众人皆求的奇珍异兽，一杖即可。</Rod_of_Wishing.description>
+  <Rod_of_Wishing.comps.CompUsable.useLabel>激活</Rod_of_Wishing.comps.CompUsable.useLabel>
+
+</LanguageData>
